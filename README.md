@@ -1,0 +1,2 @@
+# nb-megaphone
+Simple script
